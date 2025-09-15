@@ -4,4 +4,11 @@ End
 // user.js - الحالة الأصلية
 function login(user) {
   console.log("User logged in");
+  returu true;
+}
+
+// --- ميزة جديدة تجريبية ---
+function deleteAccount(user) {
+  // TODO: يجب إضافة تأكيد من المستخدم
+  console.log("DEBUG: Deleting user account..."); // غير مكتمل
 }
