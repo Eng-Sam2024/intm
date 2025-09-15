@@ -1,3 +1,7 @@
 fix problem
 ON
 End
+// user.js - الحالة الأصلية
+function login(user) {
+  console.log("User logged in");
+}
