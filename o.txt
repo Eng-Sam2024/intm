@@ -4,4 +4,5 @@ Off
 Test
 On
 Restore
+Finish
 End
