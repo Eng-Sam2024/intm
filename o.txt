@@ -6,4 +6,6 @@ On
 Restore
 Finish
 End
-Delete
+fix
+reblace
+Start
